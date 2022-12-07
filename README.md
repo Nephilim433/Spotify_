@@ -5,6 +5,7 @@ Spotify_clone
 
 Self-study project that I did according to references from the intrnet 
 
+
 To try you need to provide your Spotify's Client ID and Client Secret for auth in AuthManager
 
 Demo ⬇️ (takes few secs to load gifs)
